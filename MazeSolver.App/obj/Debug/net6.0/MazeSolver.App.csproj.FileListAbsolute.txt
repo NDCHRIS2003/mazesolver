@@ -1,0 +1,16 @@
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\bin\Debug\net6.0\MazeSolver.App.exe
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\bin\Debug\net6.0\MazeSolver.App.deps.json
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\bin\Debug\net6.0\MazeSolver.App.runtimeconfig.json
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\bin\Debug\net6.0\MazeSolver.App.dll
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\bin\Debug\net6.0\MazeSolver.App.pdb
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\obj\Debug\net6.0\MazeSolver.App.csproj.AssemblyReference.cache
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\obj\Debug\net6.0\MazeSolver.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\obj\Debug\net6.0\MazeSolver.App.AssemblyInfoInputs.cache
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\obj\Debug\net6.0\MazeSolver.App.AssemblyInfo.cs
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\obj\Debug\net6.0\MazeSolver.App.csproj.CoreCompileInputs.cache
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\obj\Debug\net6.0\MazeSolver.App.dll
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\obj\Debug\net6.0\refint\MazeSolver.App.dll
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\obj\Debug\net6.0\MazeSolver.App.pdb
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\obj\Debug\net6.0\MazeSolver.App.genruntimeconfig.cache
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\obj\Debug\net6.0\ref\MazeSolver.App.dll
+C:\Users\ndchr\Desktop\repo\coding-challenge\maze-solver\MazeSolver\MazeSolver.App\bin\Debug\net6.0\Maze.txt
